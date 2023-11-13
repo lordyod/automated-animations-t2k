@@ -1,0 +1,43 @@
+{
+  "id": "automated-animations-twilight-2000",
+  "title": "Automated Animations - Twilight: 2000",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "autoanimations",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "t2k4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "JB2A_DnD5e",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Automated Animations configuration for Twilight: 2000.",
+  "authors": [
+    {
+      "name": "Lord Yod",
+      "discord": "lordyod",
+      "email": "yod@lordyod.com",
+      "url": "https://www.lordyod.com",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/lordyod/automated-animations-t2k"
+}
